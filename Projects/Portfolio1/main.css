@@ -1,0 +1,77 @@
+body {
+    padding-top: 2em;
+    font-family: 'Poppins', sans-serif;
+    background: rgb(74, 73, 75);
+}
+
+#mainNav {
+    font-size: 1.5rem;
+    font: 700;
+    color: rgb(145, 145, 145);
+    background: rgb(243, 242, 242);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: grey;
+    border-bottom: none;
+}
+
+.nav-item {
+    padding: 0.5em 1.5em;
+}
+
+#sec-1 {
+    padding: 10% 5%;
+    margin: 0% auto;
+    color: rgb(217, 223, 223);
+    background: rgb(97, 96, 96);
+}
+
+#sec-2 {
+    text-align: left;
+    padding: 5% 20%;
+    margin: 0% auto;
+    padding: 5em;
+    color: white;
+    background: rgb(5, 192, 192);
+}
+
+#info {
+    padding: 5% 10%;
+}
+
+#image {
+    padding: 10% 2%;
+}
+
+.card {
+    border: 3px solid white;
+}
+
+#list {
+    padding: 0%;
+    list-style: none;
+}
+
+#skills {
+    background: white;
+    color: black;
+    padding: 5%;
+    font: 700;
+}
+
+#project {
+    background: peachpuff;
+    color: black;
+    padding: 5%;
+    font: 700;
+}
+
+.header {
+    padding-top: 2em;
+    color: blanchedalmond;
+}
+
+.links a {
+    padding: 1em;
+}
